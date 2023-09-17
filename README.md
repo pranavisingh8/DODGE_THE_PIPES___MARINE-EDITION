@@ -69,3 +69,8 @@ The game follows a structured algorithm:
 9. Stop the game.
 
 Enjoy playing Dodge the Pipes - Marine Edition, and may you achieve the highest score!
+
+## Output
+![Alt text](<img width="426" alt="Screenshot 2023-09-18 005704" src="https://github.com/pranavisingh8/DODGE_THE_PIPES___MARINE-EDITION/assets/138822333/a40fbc7b-06f4-491c-911e-0b4d61048b8e">
+![Screenshot (137)](https://github.com/pranavisingh8/DODGE_THE_PIPES___MARINE-EDITION/assets/138822333/5e98f359-62b4-469c-898b-cb4aacb2b9dd)
+)
