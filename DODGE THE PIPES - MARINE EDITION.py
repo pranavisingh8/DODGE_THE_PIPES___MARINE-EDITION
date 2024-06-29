@@ -1,5 +1,5 @@
 
-#IMPORTING REQUIRED MODULES
+#IMPORTING REQUIRED MODULES:
 import pygame
 import random
 import sys
