@@ -21,7 +21,7 @@ This project showcases the practical application of various programming concepts
 
 - **Game Over:** The game ends when the fish collides with a pipe. Your score is recorded, and you can restart the game.
 
-## Prerequisites
+## Prerequisites:
 
 Before running the game, ensure you have the following:
 
