@@ -1,6 +1,6 @@
 # Dodge the Pipes - Marine Edition
 
-**Table of Contents125**
+**Table of Contents1**
 - [Introduction](#introduction)
 - [Game Description](#game-description)
 - [Prerequisites](#prerequisites)
