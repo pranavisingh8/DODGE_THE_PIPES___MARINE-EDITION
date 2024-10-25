@@ -1,4 +1,4 @@
-# Dodge the Pipes - Marine Edition:qw
+# Dodge the Pipes - Marine Edition
 
 **Table of Contents**
 - [Introduction](#introduction)
