@@ -1,4 +1,4 @@
-# Dodge the Pipes - Marine Edition:(wert)
+# Dodge the Pipes - Marine Edition
 
 **Table of Contents**
 - [Introduction](#introduction)
