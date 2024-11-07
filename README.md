@@ -7,7 +7,7 @@
 - [Code Overview](#code-overview)
 - [Algorithm](#algorithm)
 
-## Introduction
+## Introduction:
 
 Dodge the Pipes - Marine Edition is an endless game inspired by the popular Flappy Bird. Developed in Python using the PyGame library, this game puts you in control of a fish. Your objective is to guide the fish through gaps between industrial pipes, accumulating points for each successful pass. However, if the fish collides with any pipes, the game ends.
 
