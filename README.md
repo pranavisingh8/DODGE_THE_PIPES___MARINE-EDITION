@@ -1,4 +1,4 @@
-# Dodge the Pipes - Marine Edition:fgh
+# Dodge the Pipes - Marine Edition:
 
 **Table of Contents**
 - [Introduction](#introduction)
